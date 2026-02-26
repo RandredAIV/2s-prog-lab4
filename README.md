@@ -24,25 +24,11 @@
 
 ## Как использовать
 
-1. Клонировать репозиторий:
-   ```bash
-   git clone https://github.com/RandredAIV/2s-prog-lab4.git
-   ```
-
-2. Перейти в папку проекта:
-   ```bash
-   cd 2s-prog-lab4
-   ```
-
-3. Скомпилировать программу:
-   ```bash
-   g++ *.cpp -o program
-   ```
-
-4. Запустить программу:
-   ```bash
-   ./program
-   ```
+1. Открыть соответствующий файл задания.
+2. Скомпилировать программу выбранного языка.
+3. Запустить программу.
+4. Ввести необходимые параметры.
+5. Получить результат вычислений в консоли.
 
 5. Следовать инструкциям в консоли (если предусмотрен ввод данных).
 
@@ -125,29 +111,11 @@ This laboratory work is devoted to studying algorithms for forming and processin
 
 ## How to Use
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/RandredAIV/2s-prog-lab4.git
-   ```
-
-2. Enter the project directory:
-   ```bash
-   cd 2s-prog-lab4
-   ```
-
-3. Compile the project:
-   ```bash
-   g++ *.cpp -o program
-   ```
-
-4. Run the executable:
-   ```bash
-   ./program
-   ```
-
-5. Follow the console instructions if input is required.
-
----
+1. Open the required source file.
+2. Compile the required source file.
+3. Run the program.
+4. Enter input parameters.
+5. View the results in the console.
 
 ## Conclusion
 
